@@ -1,0 +1,29 @@
+{
+  "record": [
+    {
+      "name": "Shafiq Ahmed",
+      "department": "CSE",
+      "batch": "2023"
+    },
+    {
+      "name": "Ayesha Khan",
+      "department": "EEE",
+      "batch": "2022"
+    },
+    {
+      "name": "Zahid Malik",
+      "department": "BBA",
+      "batch": "2024"
+    },
+    {
+      "name": "Fatima Noor",
+      "department": "CSE",
+      "batch": "2023"
+    },
+    {
+      "name": "Ali Raza",
+      "department": "ME",
+      "batch": "2021"
+    }
+  ]
+}
